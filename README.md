@@ -12,9 +12,3 @@
 <a href="https://www.discord.com/users/249479519331811330"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://app.hackthebox.com/profile/1354403"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="HTB"></a>
 </p>
-
-[![pin1](https://github-readme-stats.vercel.app/api/pin/?username=warlocksmurf&repo=localctf-writeups)](https://github.com/warlocksmurf/localctf-writeups)
-[![pin2](https://github-readme-stats.vercel.app/api/pin/?username=warlocksmurf&repo=onlinectf-writeups)](https://github.com/warlocksmurf/onlinectf-writeups)
-[![pin3](https://github-readme-stats.vercel.app/api/pin/?username=warlocksmurf&repo=HTBSherlock-writeups)](https://github.com/warlocksmurf/HTBSherlock-writeups)
-[![pin4](https://github-readme-stats.vercel.app/api/pin/?username=warlocksmurf&repo=BTLO-writeups)](https://github.com/warlocksmurf/BTLO-writeups)
-[![pin5](https://github-readme-stats.vercel.app/api/pin/?username=warlocksmurf&repo=jq-cheatsheet)](https://github.com/warlocksmurf/jq-cheatsheet)
